@@ -1,0 +1,10 @@
+pyspark
+torch
+pandas
+numpy 
+sentence-transformers 
+elasticsearch
+tqdm
+faiss-cpu
+sklearn
+pyspark[sql]
